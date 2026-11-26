@@ -1,2 +1,2 @@
 # simulator-ggdrop
-sgd
+open it in txt red or open in a browser 
